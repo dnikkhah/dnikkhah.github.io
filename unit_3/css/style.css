@@ -1,0 +1,16 @@
+html {background-image: url ("images/landscape.jpg");
+}
+
+body {
+	background: #cccccc;
+	font-color: white;
+	font-family: Arial, sans-serif;
+}
+	h1 {
+		font-size: 18px;
+		font-color: #FF0000;
+	}
+#slogan {font-style: italic;
+}
+
+h2 {text-decoration: underline;} 
