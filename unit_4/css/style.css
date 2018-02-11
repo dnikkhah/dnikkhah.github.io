@@ -1,0 +1,44 @@
+ 
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+	background-image: url("../images/landscape.jpg");
+	text-align: center;
+	font-color: white;
+}
+
+#intro {
+
+}
+	h1 {
+		text-align: center;
+		font-size: 36px;
+		font-color: #107B7F;
+		line-height: 1.5em;
+		font-family: 'Raleway';
+	}
+#slogan {
+	text-align: center;
+	font-family; Arial;
+    font-size: 22px ;
+    font-style: italic;
+}
+#intro {
+	font-family: 'Raleway'
+	font-size: 24;
+}
+.ul {
+	text-align: left;
+	font-size: 20px; 
+}
+
+h2 {
+	text-align: center; 
+	text-decoration: underline;
+	font-family: garamond, serif;
+
+} 
+.p {=text-align: center; 
+	font-size: 20px;
+
+ }
